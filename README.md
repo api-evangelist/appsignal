@@ -64,5 +64,31 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-AppSignal is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.appsignal.com/
+AppSignal provides error tracking, performance monitoring, and host monitoring for modern applications. It offers features like anomaly detection, uptime monitoring, metric dashboards, log management, and distributed tracing across multiple languages including Ruby, Elixir, Node.js, Python, Go, Java, PHP, and Rust. The platform integrates with OpenTelemetry and supports deployment on Vercel, Kubernetes, and AWS CloudWatch, catering to startups, enterprises, and regulated industries with HIPAA compliance and long‑term log storage options.
+
+**Areas:** Monitoring · ErrorTracking · Performance · Observability · SaaS
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.appsignal.com/)
+- [Documentation](https://docs.appsignal.com)
+- [Getting started](https://docs.appsignal.com/getting-started)
+- [API reference](https://docs.appsignal.com/api)
+- [Pricing](https://www.appsignal.com/plans)
+- [Support](https://www.appsignal.com/contact)
+- [Changelog](https://www.appsignal.com/changelog)
+- [Blog](https://blog.appsignal.com)
+- [Security](https://www.appsignal.com/security)
+- [Compliance](https://www.appsignal.com/security)
+- [Terms of service](https://www.appsignal.com/terms)
+- [Privacy policy](https://www.appsignal.com/privacy-policy)
+- [GitHub](https://github.com/appsignal)
+- [Status](https://status.appsignal.com/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/appsignal/](https://apis.io/providers/appsignal/).
